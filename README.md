@@ -1,8 +1,11 @@
 # Well-App
 
 Project: Well — Wellness Application
+
 Course: UX Design (CPSC 4220/5220)
+
 Institution: Seattle University
+
 Project Type: User Experience Design / Mobile Application Concept
 
 👥 Team & Project
