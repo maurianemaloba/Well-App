@@ -8,8 +8,11 @@ Project Type: User Experience Design / Mobile Application Concept
 👥 Team & Project
 
 Mauriane Banza
+
 Vallon Bosango
+
 Helina Hebre
+
 Edna Mohammed
 
 Description:
